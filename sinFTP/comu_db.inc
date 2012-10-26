@@ -1,10 +1,4 @@
 <?php
-	$dbhost='grupeina.com';
-	$dbnom_usuari='servicenton';
-	$dbclau='trnppmazei12';
-	$db_defecte='ntec_es';
-
-	
 /*	$dbhost='localhost';
 	$dbnom_usuari='root';
 	$dbclau='';
